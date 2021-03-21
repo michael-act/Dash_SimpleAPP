@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img align="center" src="https://drive.google.com/thumbnail?id=1-Ad04VrDU-5H8e4ThHM14_xs7YNK5cNT" width="256">
+<img align="center" src="https://drive.google.com/thumbnail?id=1-Ad04VrDU-5H8e4ThHM14_xs7YNK5cNT" width="768">
 
 </p>
 
