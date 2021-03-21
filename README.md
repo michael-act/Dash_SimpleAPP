@@ -5,7 +5,7 @@
 </p>
 
 ### 🤔 Repository apa ini?
-Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael A.C Tulenan </a>. **Dash_SimpleAPP merupakan Final Challenge Bootcamp Data Analysis dan Visualization 101 dari DPhi Tech. Dalam challenge tersebut, saya (kita) diminta untuk membuat web dashboard dengan Dash, dan membuat chart yang menjelaskan banyaknya responden berdasarkan gender yang mengisi Survey Gaji IT Tahunan di Eropa.**
+Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael A.C Tulenan </a>. **Dash_SimpleAPP merupakan Final Challenge Bootcamp Data Analysis dan Visualization 101 dari DPhi Tech. Ini adalah dashboard simpel yang menunjukkan perkembangan responden berdasarkan gender dari Survey Gaji IT di Eropa.**
 
 ### 🤖 Bantuan aplikasi
 - Python v3.8.3rc1
