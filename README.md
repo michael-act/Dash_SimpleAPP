@@ -2,7 +2,7 @@
 	
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
-<img align="center" src="https://drive.google.com/file/d/1-Ad04VrDU-5H8e4ThHM14_xs7YNK5cNT/preview">
+<img align="center" src="https://drive.google.com/thumbnail?id=13fujYzGy0KTk-3ewyEAsBslOs3syvH33">
 
 </p>
 
