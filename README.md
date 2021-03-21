@@ -2,6 +2,8 @@
 	
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
+<img align="center" src="https://drive.google.com/file/d/1-Ad04VrDU-5H8e4ThHM14_xs7YNK5cNT/preview">
+
 </p>
 
 ### 🤔 Repository apa ini?
