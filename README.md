@@ -1,12 +1,7 @@
 <p align="center">
 	
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
-
-</p>
-
-<p align="center">
-
-<iframe src="https://drive.google.com/file/d/13fujYzGy0KTk-3ewyEAsBslOs3syvH33/preview" width="640" height="480"></iframe>
+<a href="https://drive.google.com/file/d/13fujYzGy0KTk-3ewyEAsBslOs3syvH33/view?usp=sharing"> Preview Dashboard Video</a>
 
 </p>
 
