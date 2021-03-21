@@ -4,7 +4,11 @@
 
 </p>
 
+<p align="center">
+
 <img align="center" src="https://drive.google.com/thumbnail?id=1-Ad04VrDU-5H8e4ThHM14_xs7YNK5cNT" width="256">
+
+</p>
 
 ### 🤔 Repository apa ini?
 Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael A.C Tulenan </a>. **Dash_SimpleAPP merupakan Final Challenge Bootcamp Data Analysis dan Visualization 101 dari DPhi Tech. Ini adalah dashboard simpel yang menunjukkan perkembangan responden berdasarkan gender dari Survey Gaji IT di Eropa.**
