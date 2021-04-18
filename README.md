@@ -6,7 +6,7 @@
 </p>
 
 ### 🤔 Repository apa ini?
-Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael A.C Tulenan </a>. **Dash_SimpleAPP merupakan Final Challenge Bootcamp Data Analysis dan Visualization 101 dari DPhi Tech. Ini adalah dashboard simpel yang menunjukkan perkembangan responden berdasarkan gender dari Survey Gaji IT di Eropa.**
+Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael Act </a>. **Dash_SimpleAPP merupakan Final Challenge Bootcamp Data Analysis dan Visualization 101 dari DPhi Tech. Ini adalah dashboard sederhana yang menunjukkan perkembangan responden berdasarkan gender dari Survey Gaji IT di Eropa.**
 
 ### 🤖 Bantuan aplikasi
 - Python v3.8.3rc1
@@ -24,7 +24,7 @@ Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"
 ## 🧑 Author
 
 - Facebook : <a href="https://www.facebook.com/michael.actt"> Michael Act</a>
-- LinkedIn : <a href="https://www.linkedin.com/in/michael-act/"> Michael A.C Tulenan</a>
+- LinkedIn : <a href="https://www.linkedin.com/in/michael-act/"> Michael Abraham Chan Tulenan</a>
 
 ## 🤝 Contributing
 Contributions, issues and feature requests di persilahkan.
@@ -32,5 +32,5 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi.
 
 
 ## 📝 License
-- Copyright © 2020 Michael A.C Tulenan.
+- Copyright © 2020 Michael Abraham Chan Tulenan.
 - **This Repository is open-sourced software licensed under the MIT license.**
